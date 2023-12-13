@@ -1,8 +1,8 @@
 # MS-PAINT-REPLICA
 This project is an attempt to recreate a simplified version of MS Paint using C++ and Borland's graphic interface. It provides a canvas where users can draw shapes, apply colors, save images, and utilize tools such as a pen and eraser.
 
-#Features
-#Supported Shapes
+# Features
+# Supported Shapes
 Circle: Draw circles on the canvas.
 Rectangle: Create rectangles with customizable dimensions.
 Triangle: Draw triangles based on three specified points.
@@ -14,23 +14,23 @@ Eraser: Erase specific parts of the drawing or clear the entire canvas.
 Saving Images
 Save the created images to your local machine for future reference or sharing.
 
-#Getting Started
-#Prerequisites
+# Getting Started
+# Prerequisites
 Borland C++ Compiler (or compatible IDE)
 Graphics library for Borland C++
 
-#Installation
+# Installation
 Clone the repository.
 Open the project in your Borland C++ environment.
 Compile and build the project to create the executable.
 
-#Usage
+# Usage
 Run the executable to launch the MS Paint replica.
 Use the menu or interface to select drawing tools, shapes, colors, etc.
 Experiment with different functionalities to create drawings.
 Save your artwork using the provided option in the menu.
 
-#Implementation Details
+# Implementation Details
 The project utilizes Object-Oriented Programming (OOP) techniques to organize functionalities into classes such as:
 
 Canvas: Manages the drawing area and background color.
@@ -44,10 +44,10 @@ Fork the repository.
 Create a new branch for your feature or fix.
 Make changes and submit a pull request.
 
-#License
+# License
 This project is licensed under the MIT License.
 
-#Acknowledgments
+# Acknowledgments
 Inspiration drawn from the functionalities of MS Paint.
 Borland's graphics library for enabling graphical user interface development in C++.
 
